@@ -1,0 +1,14 @@
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\obj\Debug\net8.0\Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\obj\Debug\net8.0\Ex05.AssemblyInfoInputs.cache
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\obj\Debug\net8.0\Ex05.AssemblyInfo.cs
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\obj\Debug\net8.0\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\bin\Debug\net8.0\Ex05.exe
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\bin\Debug\net8.0\Ex05.deps.json
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\bin\Debug\net8.0\Ex05.runtimeconfig.json
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\bin\Debug\net8.0\Ex05.dll
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\bin\Debug\net8.0\Ex05.pdb
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\obj\Debug\net8.0\Ex05.dll
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\obj\Debug\net8.0\refint\Ex05.dll
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\obj\Debug\net8.0\Ex05.pdb
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\obj\Debug\net8.0\Ex05.genruntimeconfig.cache
+C:\Users\PGPP4\source\repos\Composicio Sequencial\Ex05\obj\Debug\net8.0\ref\Ex05.dll

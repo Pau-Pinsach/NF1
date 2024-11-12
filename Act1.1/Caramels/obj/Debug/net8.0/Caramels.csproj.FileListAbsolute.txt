@@ -1,0 +1,14 @@
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\bin\Debug\net8.0\Caramels.exe
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\bin\Debug\net8.0\Caramels.deps.json
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\bin\Debug\net8.0\Caramels.runtimeconfig.json
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\bin\Debug\net8.0\Caramels.dll
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\bin\Debug\net8.0\Caramels.pdb
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\obj\Debug\net8.0\Caramels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\obj\Debug\net8.0\Caramels.AssemblyInfoInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\obj\Debug\net8.0\Caramels.AssemblyInfo.cs
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\obj\Debug\net8.0\Caramels.csproj.CoreCompileInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\obj\Debug\net8.0\Caramels.dll
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\obj\Debug\net8.0\refint\Caramels.dll
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\obj\Debug\net8.0\Caramels.pdb
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\obj\Debug\net8.0\Caramels.genruntimeconfig.cache
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Caramels\obj\Debug\net8.0\ref\Caramels.dll

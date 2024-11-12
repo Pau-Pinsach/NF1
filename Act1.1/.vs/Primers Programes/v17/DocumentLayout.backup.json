@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\PROGRAMES\\Primers Programes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5542C25-9945-4BC7-BFE4-4EE1B59EDA7A}|Caramels\\Caramels.csproj|c:\\users\\pgpp4\\daw\\visual studio\\programes\\primers programes\\caramels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5542C25-9945-4BC7-BFE4-4EE1B59EDA7A}|Caramels\\Caramels.csproj|solutionrelative:caramels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6006A5C-F00C-4DD4-9BD0-9140867F3430}|Volum Esfera\\Volum Esfera.csproj|c:\\users\\pgpp4\\daw\\visual studio\\programes\\primers programes\\volum esfera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6006A5C-F00C-4DD4-9BD0-9140867F3430}|Volum Esfera\\Volum Esfera.csproj|solutionrelative:volum esfera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4524BE-5BE8-41A2-B28B-E88944B6DAE4}|HelloWorld\\HelloWorld.csproj|c:\\users\\pgpp4\\daw\\visual studio\\programes\\primers programes\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4524BE-5BE8-41A2-B28B-E88944B6DAE4}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\PROGRAMES\\Primers Programes\\Volum Esfera\\Program.cs",
+              "RelativeDocumentMoniker": "Volum Esfera\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\PROGRAMES\\Primers Programes\\Volum Esfera\\Program.cs",
+              "RelativeToolTip": "Volum Esfera\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:25:02.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\PROGRAMES\\Primers Programes\\Caramels\\Program.cs",
+              "RelativeDocumentMoniker": "Caramels\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\PROGRAMES\\Primers Programes\\Caramels\\Program.cs",
+              "RelativeToolTip": "Caramels\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:11:53.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\PROGRAMES\\Primers Programes\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\PROGRAMES\\Primers Programes\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:30:51.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

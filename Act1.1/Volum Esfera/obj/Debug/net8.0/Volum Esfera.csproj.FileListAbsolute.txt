@@ -1,0 +1,14 @@
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\bin\Debug\net8.0\Volum Esfera.exe
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\bin\Debug\net8.0\Volum Esfera.deps.json
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\bin\Debug\net8.0\Volum Esfera.runtimeconfig.json
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\bin\Debug\net8.0\Volum Esfera.dll
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\bin\Debug\net8.0\Volum Esfera.pdb
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\obj\Debug\net8.0\Volum Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\obj\Debug\net8.0\Volum Esfera.AssemblyInfoInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\obj\Debug\net8.0\Volum Esfera.AssemblyInfo.cs
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\obj\Debug\net8.0\Volum Esfera.csproj.CoreCompileInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\obj\Debug\net8.0\Volum Esfera.dll
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\obj\Debug\net8.0\refint\Volum Esfera.dll
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\obj\Debug\net8.0\Volum Esfera.pdb
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\obj\Debug\net8.0\Volum Esfera.genruntimeconfig.cache
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\Volum Esfera\obj\Debug\net8.0\ref\Volum Esfera.dll

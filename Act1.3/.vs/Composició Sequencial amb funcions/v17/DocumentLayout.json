@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A0C97-47B4-4B64-8A45-CC298392F926}|Ex06\\Ex06.csproj|c:\\users\\pgpp4\\source\\repos\\composici\u00F3 sequencial amb funcions\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A0C97-47B4-4B64-8A45-CC298392F926}|Ex06\\Ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03F0008-FA52-49AD-BB3A-1485C97B89B8}|Ex07\\Ex07.csproj|c:\\users\\pgpp4\\source\\repos\\composici\u00F3 sequencial amb funcions\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03F0008-FA52-49AD-BB3A-1485C97B89B8}|Ex07\\Ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4F3886-24E7-4221-90DA-3DB23F816B37}|Ex08\\Ex08.csproj|c:\\users\\pgpp4\\source\\repos\\composici\u00F3 sequencial amb funcions\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4F3886-24E7-4221-90DA-3DB23F816B37}|Ex08\\Ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF80EE-B633-4F86-9069-A83AF6D67BBE}|Ex09\\Ex09.csproj|c:\\users\\pgpp4\\source\\repos\\composici\u00F3 sequencial amb funcions\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF80EE-B633-4F86-9069-A83AF6D67BBE}|Ex09\\Ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB98A7E-27AB-49A3-BD25-BFF2C98FDF4B}|Ex04\\Ex04.csproj|c:\\users\\pgpp4\\source\\repos\\composici\u00F3 sequencial amb funcions\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB98A7E-27AB-49A3-BD25-BFF2C98FDF4B}|Ex04\\Ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42582E1-072E-4CC9-B6B4-0E39DC0F4452}|Ex03\\Ex03.csproj|c:\\users\\pgpp4\\source\\repos\\composici\u00F3 sequencial amb funcions\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42582E1-072E-4CC9-B6B4-0E39DC0F4452}|Ex03\\Ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF7EC8C-56B3-4812-877A-4BED441C9190}|Ex02\\Ex02.csproj|c:\\users\\pgpp4\\source\\repos\\composici\u00F3 sequencial amb funcions\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF7EC8C-56B3-4812-877A-4BED441C9190}|Ex02\\Ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF905DE2-95B0-4568-B081-D7FE5969C342}|Ex01\\Ex01.csproj|c:\\users\\pgpp4\\source\\repos\\composici\u00F3 sequencial amb funcions\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF905DE2-95B0-4568-B081-D7FE5969C342}|Ex01\\Ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45190B8-F5C7-4E26-9481-DB8CD0885288}|Ex05\\Ex05.csproj|c:\\users\\pgpp4\\source\\repos\\composici\u00F3 sequencial amb funcions\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45190B8-F5C7-4E26-9481-DB8CD0885288}|Ex05\\Ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex09\\Program.cs",
+              "RelativeDocumentMoniker": "Ex09\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex09\\Program.cs",
+              "RelativeToolTip": "Ex09\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:39:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex08\\Program.cs",
+              "RelativeDocumentMoniker": "Ex08\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex08\\Program.cs",
+              "RelativeToolTip": "Ex08\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:38:15.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex07\\Program.cs",
+              "RelativeDocumentMoniker": "Ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex07\\Program.cs",
+              "RelativeToolTip": "Ex07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:02:32.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex06\\Program.cs",
+              "RelativeDocumentMoniker": "Ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex06\\Program.cs",
+              "RelativeToolTip": "Ex06\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:09:55.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex05\\Program.cs",
+              "RelativeDocumentMoniker": "Ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex05\\Program.cs",
+              "RelativeToolTip": "Ex05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:03:46.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex04\\Program.cs",
+              "RelativeDocumentMoniker": "Ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex04\\Program.cs",
+              "RelativeToolTip": "Ex04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:02:46.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex03\\Program.cs",
+              "RelativeDocumentMoniker": "Ex03\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex03\\Program.cs",
+              "RelativeToolTip": "Ex03\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:14:53.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex02\\Program.cs",
+              "RelativeDocumentMoniker": "Ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex02\\Program.cs",
+              "RelativeToolTip": "Ex02\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:58:44.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex01\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composici\u00F3 Sequencial amb funcions\\Ex01\\Program.cs",
+              "RelativeToolTip": "Ex01\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:34:40.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

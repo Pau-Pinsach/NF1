@@ -1,0 +1,14 @@
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\PGPP4\DAW\Visual Studio\PROGRAMES\Primers Programes\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

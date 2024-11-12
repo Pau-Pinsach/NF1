@@ -1,0 +1,15 @@
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\bin\Debug\net8.0\ExerciciExtra.exe
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\bin\Debug\net8.0\ExerciciExtra.deps.json
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\bin\Debug\net8.0\ExerciciExtra.runtimeconfig.json
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\bin\Debug\net8.0\ExerciciExtra.dll
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\bin\Debug\net8.0\ExerciciExtra.pdb
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\ExerciciExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\ExerciciExtra.AssemblyInfoInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\ExerciciExtra.AssemblyInfo.cs
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\ExerciciExtra.csproj.CoreCompileInputs.cache
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\ExerciciExtra.sourcelink.json
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\ExerciciExtra.dll
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\refint\ExerciciExtra.dll
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\ExerciciExtra.pdb
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\ExerciciExtra.genruntimeconfig.cache
+C:\Users\PGPP4\DAW\Visual Studio\Act1.4\ExerciciExtra\obj\Debug\net8.0\ref\ExerciciExtra.dll

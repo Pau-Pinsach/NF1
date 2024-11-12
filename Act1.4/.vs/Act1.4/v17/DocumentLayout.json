@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E35D1E6C-1BDD-4B69-AE7D-DA11CA1C8C29}|ExerciciExtra\\ExerciciExtra.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\exerciciextra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35D1E6C-1BDD-4B69-AE7D-DA11CA1C8C29}|ExerciciExtra\\ExerciciExtra.csproj|solutionrelative:exerciciextra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4708DFE-E4D0-42CE-955A-069C9F0DAF6D}|Ex16\\Ex16.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4708DFE-E4D0-42CE-955A-069C9F0DAF6D}|Ex16\\Ex16.csproj|solutionrelative:ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA1E2A-6C55-4809-ABB5-5C35AD3DC4F2}|Ex14\\Ex14.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BA1E2A-6C55-4809-ABB5-5C35AD3DC4F2}|Ex14\\Ex14.csproj|solutionrelative:ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBCD642-9E77-4169-B888-DE2E159B9E43}|Ex12\\Ex12.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBCD642-9E77-4169-B888-DE2E159B9E43}|Ex12\\Ex12.csproj|solutionrelative:ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F65666B-11CA-4B58-AAF1-A4970554F8F3}|Ex13\\Ex13.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F65666B-11CA-4B58-AAF1-A4970554F8F3}|Ex13\\Ex13.csproj|solutionrelative:ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD66399-B451-4466-8D9B-9655F3979D50}|Ex09\\Ex09.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD66399-B451-4466-8D9B-9655F3979D50}|Ex09\\Ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEE1002-B1FE-4751-A900-DE443A2BD5C4}|Ex15\\Ex15.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEE1002-B1FE-4751-A900-DE443A2BD5C4}|Ex15\\Ex15.csproj|solutionrelative:ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A15398-38B6-4AA2-AC2E-6DCFB5245B41}|Ex11\\Ex11.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A15398-38B6-4AA2-AC2E-6DCFB5245B41}|Ex11\\Ex11.csproj|solutionrelative:ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF07C910-F947-4C8E-8543-42FF5E9EA8FD}|Ex10\\Ex10.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF07C910-F947-4C8E-8543-42FF5E9EA8FD}|Ex10\\Ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025B2AA-FCA9-49C6-8C2A-5D72021A9B87}|Ex08\\Ex08.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D025B2AA-FCA9-49C6-8C2A-5D72021A9B87}|Ex08\\Ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCEB980-8577-481E-869D-E5022DF58173}|Ex01\\Ex01.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCEB980-8577-481E-869D-E5022DF58173}|Ex01\\Ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF9C4AE-8477-4F6F-AB2E-BF4FE6272957}|Ex07\\Ex07.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF9C4AE-8477-4F6F-AB2E-BF4FE6272957}|Ex07\\Ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65570801-D97F-4E4F-91C8-F97FA2E01A81}|Ex06\\Ex06.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65570801-D97F-4E4F-91C8-F97FA2E01A81}|Ex06\\Ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36C665-7094-482B-8C48-F98DFB17986E}|Ex05\\Ex05.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36C665-7094-482B-8C48-F98DFB17986E}|Ex05\\Ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB075E-5662-44A8-A972-9FA6D87989AD}|Ex04\\Ex04.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB075E-5662-44A8-A972-9FA6D87989AD}|Ex04\\Ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4A0C0A-E997-48B7-ACF3-286F096B8969}|Ex02\\Ex02.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4A0C0A-E997-48B7-ACF3-286F096B8969}|Ex02\\Ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F72D06-8375-41B2-BBE1-6F90F2014BA9}|Ex03\\Ex03.csproj|c:\\users\\pgpp4\\daw\\visual studio\\act1.4\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F72D06-8375-41B2-BBE1-6F90F2014BA9}|Ex03\\Ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\ExerciciExtra\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciExtra\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\ExerciciExtra\\Program.cs",
+              "RelativeToolTip": "ExerciciExtra\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:41:13.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex16\\Program.cs",
+              "RelativeDocumentMoniker": "Ex16\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex16\\Program.cs",
+              "RelativeToolTip": "Ex16\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:25:12.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex15\\Program.cs",
+              "RelativeDocumentMoniker": "Ex15\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex15\\Program.cs",
+              "RelativeToolTip": "Ex15\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:49:59.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex14\\Program.cs",
+              "RelativeDocumentMoniker": "Ex14\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex14\\Program.cs",
+              "RelativeToolTip": "Ex14\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:48:07.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex13\\Program.cs",
+              "RelativeDocumentMoniker": "Ex13\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex13\\Program.cs",
+              "RelativeToolTip": "Ex13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:40:49.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex12\\Program.cs",
+              "RelativeDocumentMoniker": "Ex12\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex12\\Program.cs",
+              "RelativeToolTip": "Ex12\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:28:17.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex11\\Program.cs",
+              "RelativeDocumentMoniker": "Ex11\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex11\\Program.cs",
+              "RelativeToolTip": "Ex11\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:09:26.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex10\\Program.cs",
+              "RelativeDocumentMoniker": "Ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex10\\Program.cs",
+              "RelativeToolTip": "Ex10\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:19:38.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex09\\Program.cs",
+              "RelativeDocumentMoniker": "Ex09\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex09\\Program.cs",
+              "RelativeToolTip": "Ex09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:58:34.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex08\\Program.cs",
+              "RelativeDocumentMoniker": "Ex08\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex08\\Program.cs",
+              "RelativeToolTip": "Ex08\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:36:27.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex07\\Program.cs",
+              "RelativeDocumentMoniker": "Ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex07\\Program.cs",
+              "RelativeToolTip": "Ex07\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:20:25.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex06\\Program.cs",
+              "RelativeDocumentMoniker": "Ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex06\\Program.cs",
+              "RelativeToolTip": "Ex06\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:35:18.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex05\\Program.cs",
+              "RelativeDocumentMoniker": "Ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex05\\Program.cs",
+              "RelativeToolTip": "Ex05\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:16:30.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex04\\Program.cs",
+              "RelativeDocumentMoniker": "Ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex04\\Program.cs",
+              "RelativeToolTip": "Ex04\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:09:31.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex03\\Program.cs",
+              "RelativeDocumentMoniker": "Ex03\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex03\\Program.cs",
+              "RelativeToolTip": "Ex03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:58:12.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex02\\Program.cs",
+              "RelativeDocumentMoniker": "Ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex02\\Program.cs",
+              "RelativeToolTip": "Ex02\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:51:30.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex01\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\DAW\\Visual Studio\\Act1.4\\Ex01\\Program.cs",
+              "RelativeToolTip": "Ex01\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:07:35.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

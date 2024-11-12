@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A92A436-0CB2-4EF3-9571-641AF5FAFB41}|Ex17\\Ex17.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A92A436-0CB2-4EF3-9571-641AF5FAFB41}|Ex17\\Ex17.csproj|solutionrelative:ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2943A0E9-D1D8-41D2-B2E5-FD31A6F3846C}|Ex16\\Ex16.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2943A0E9-D1D8-41D2-B2E5-FD31A6F3846C}|Ex16\\Ex16.csproj|solutionrelative:ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36227D2-083B-46D0-A813-C65BF60A7EFD}|Ex15\\Ex15.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36227D2-083B-46D0-A813-C65BF60A7EFD}|Ex15\\Ex15.csproj|solutionrelative:ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A9E22E-B58A-4CF6-A9A8-E2230460C7D0}|Ex05\\Ex05.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A9E22E-B58A-4CF6-A9A8-E2230460C7D0}|Ex05\\Ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8F4F15-5390-4EF9-8063-D1076235F0C1}|Ex14\\Ex14.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8F4F15-5390-4EF9-8063-D1076235F0C1}|Ex14\\Ex14.csproj|solutionrelative:ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C2F602-2188-48D3-A5F4-1CE07505BFCA}|Ex13\\Ex13.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C2F602-2188-48D3-A5F4-1CE07505BFCA}|Ex13\\Ex13.csproj|solutionrelative:ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38043CDB-0B99-4DDE-8FE8-1D1296200D27}|Ex1\\Ex01.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38043CDB-0B99-4DDE-8FE8-1D1296200D27}|Ex1\\Ex01.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BD61F3-8AA4-4B14-9349-DDB3C551FDD7}|Ex12\\Ex12.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BD61F3-8AA4-4B14-9349-DDB3C551FDD7}|Ex12\\Ex12.csproj|solutionrelative:ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C48565-F314-4F7C-88AE-B7692291D2BE}|Ex11\\Ex11.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C48565-F314-4F7C-88AE-B7692291D2BE}|Ex11\\Ex11.csproj|solutionrelative:ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6554C18A-B1AA-4723-A901-B451D8EB781E}|Ex10\\Ex10.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6554C18A-B1AA-4723-A901-B451D8EB781E}|Ex10\\Ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20B6132-08CF-4783-ACD2-F8CA7134E1B3}|Ex08\\Ex08.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20B6132-08CF-4783-ACD2-F8CA7134E1B3}|Ex08\\Ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045B68C6-28DE-4CBE-87A7-AC37D163B986}|Ex07\\Ex07.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B68C6-28DE-4CBE-87A7-AC37D163B986}|Ex07\\Ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7F4D1-F49C-44A4-9348-6AB5BF780A3E}|Ex06\\Ex06.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7F4D1-F49C-44A4-9348-6AB5BF780A3E}|Ex06\\Ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89509A0-3AA1-49CB-9582-ED92F770B4F9}|Ex4\\Ex04.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89509A0-3AA1-49CB-9582-ED92F770B4F9}|Ex4\\Ex04.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455E2C1E-3FD5-4A40-B9FF-FEE250D5FBEA}|Ex2\\Ex02.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455E2C1E-3FD5-4A40-B9FF-FEE250D5FBEA}|Ex2\\Ex02.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4171668C-6A4A-42C1-8C12-52AAE1EEDB0A}|Ex18\\Ex18.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4171668C-6A4A-42C1-8C12-52AAE1EEDB0A}|Ex18\\Ex18.csproj|solutionrelative:ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30B7595-D13D-48EF-B9E8-2320A1E915B5}|Ex09\\Ex09.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30B7595-D13D-48EF-B9E8-2320A1E915B5}|Ex09\\Ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1031D59E-6C5C-4E8F-99CA-45E42C82A690}|Ex3\\Ex03.csproj|c:\\users\\pgpp4\\source\\repos\\composicio sequencial\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1031D59E-6C5C-4E8F-99CA-45E42C82A690}|Ex3\\Ex03.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex05\\Program.cs",
+              "RelativeDocumentMoniker": "Ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex05\\Program.cs",
+              "RelativeToolTip": "Ex05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:29:02.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex15\\Program.cs",
+              "RelativeDocumentMoniker": "Ex15\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex15\\Program.cs",
+              "RelativeToolTip": "Ex15\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:32:09.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex13\\Program.cs",
+              "RelativeDocumentMoniker": "Ex13\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex13\\Program.cs",
+              "RelativeToolTip": "Ex13\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:31:11.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex1\\Program.cs",
+              "RelativeToolTip": "Ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:24:55.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex18\\Program.cs",
+              "RelativeDocumentMoniker": "Ex18\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex18\\Program.cs",
+              "RelativeToolTip": "Ex18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:51:14.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex16\\Program.cs",
+              "RelativeDocumentMoniker": "Ex16\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex16\\Program.cs",
+              "RelativeToolTip": "Ex16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:30:45.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex14\\Program.cs",
+              "RelativeDocumentMoniker": "Ex14\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex14\\Program.cs",
+              "RelativeToolTip": "Ex14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:48:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex11\\Program.cs",
+              "RelativeDocumentMoniker": "Ex11\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex11\\Program.cs",
+              "RelativeToolTip": "Ex11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:09:59.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex10\\Program.cs",
+              "RelativeDocumentMoniker": "Ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex10\\Program.cs",
+              "RelativeToolTip": "Ex10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:02:37.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex09\\Program.cs",
+              "RelativeDocumentMoniker": "Ex09\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex09\\Program.cs",
+              "RelativeToolTip": "Ex09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:41:50.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex08\\Program.cs",
+              "RelativeDocumentMoniker": "Ex08\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex08\\Program.cs",
+              "RelativeToolTip": "Ex08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:57:48.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex07\\Program.cs",
+              "RelativeDocumentMoniker": "Ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex07\\Program.cs",
+              "RelativeToolTip": "Ex07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:41:53.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex06\\Program.cs",
+              "RelativeDocumentMoniker": "Ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex06\\Program.cs",
+              "RelativeToolTip": "Ex06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:20:52.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex17\\Program.cs",
+              "RelativeDocumentMoniker": "Ex17\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex17\\Program.cs",
+              "RelativeToolTip": "Ex17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:42:23.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex4\\Program.cs",
+              "RelativeDocumentMoniker": "Ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex4\\Program.cs",
+              "RelativeToolTip": "Ex4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:42:34.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex3\\Program.cs",
+              "RelativeToolTip": "Ex3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:32:02.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex12\\Program.cs",
+              "RelativeDocumentMoniker": "Ex12\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex12\\Program.cs",
+              "RelativeToolTip": "Ex12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:32:56.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\PGPP4\\source\\repos\\Composicio Sequencial\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:05:18.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
